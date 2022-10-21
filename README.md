@@ -27,7 +27,7 @@
     libtool libtool-bin python-dev bzip2 libgmp3-dev pkg-config g++ libssl-dev clang
 ```
 
-  Check [![here](https://gist.github.com/diabolusss/61733b0140db2a79e8643038b7b0e12b#file-old_python_install-sh)] python2.7 install notes and logs for Arch linux via yay.
+  Check [here](https://gist.github.com/diabolusss/61733b0140db2a79e8643038b7b0e12b#file-old_python_install-sh) python2.7 install notes and logs for Arch linux via yay.
 
 ## macOS
 
